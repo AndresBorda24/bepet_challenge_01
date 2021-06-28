@@ -15,6 +15,7 @@ NOT_PALINDROMES = [
 
 def is_palindrome(palindrome):
     # Start coding here
+    # sjfbsvfsv
     pass
 
 def validate():
